@@ -2,12 +2,12 @@
 Analyzing Big Data with Spark SQL 
 
 Working with SQL at Scale - Spark SQL 🚀📊
-
-Overview
+ 
+Overview :
 
 This repository contains a comprehensive tutorial on using Spark SQL for large-scale data processing and querying. It demonstrates how to leverage Spark SQL to work with structured data, perform complex queries, and gain insights from large datasets. The tutorial uses the KDD Cup 1999 dataset, a well-known dataset for network intrusion detection. 🌐🔍
 
-Features
+Features :
 
 Data Loading: Import data from Parquet files and Hive tables. 📥
 
@@ -19,7 +19,7 @@ Optimized Performance: Utilize Spark SQL's cost-based optimizer and columnar sto
 
 Scalability: Scale to thousands of nodes and multi-hour queries with full fault tolerance. 🌐
 
-Results
+Results - 
 
 Protocol Type Aggregation: Count of connections based on protocol type (TCP, UDP, ICMP). 📈
 
